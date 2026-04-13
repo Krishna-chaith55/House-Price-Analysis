@@ -1,21 +1,21 @@
 # House-Price-Analysis
-Overview
+Overview :
 This project explores a housing dataset to identify the key factors affecting house prices using data cleaning and exploratory data analysis (EDA).
 
-Tools Used
+Tools Used :
   Python
   Pandas
   Seaborn
   Matplotlib
 
-  Key Steps
+  Key Steps :
   Cleaned missing data using appropriate strategies
   Removed outliers for better analysis
   Performed correlation analysis
   Visualized relationships between features and price
   Created a new feature (TotalSF)
 
-Key Insights
+Key Insights :
   Overall quality has the strongest impact on house prices
   Living area shows a strong positive relationship with price
   Garage size and capacity influence property value
@@ -23,9 +23,9 @@ Key Insights
   Removing outliers improves trend clarity
   Total square footage improves predictive power
 
-Files
+Files :
 house_price_analysis.ipynb → Full analysis notebook
 
-Future Improvements
+Future Improvements :
   Build a predictive model
   Create an interactive dashboard
